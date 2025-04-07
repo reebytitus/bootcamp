@@ -9,6 +9,6 @@ updates:
     assignees:
       - "reebytitus"
     reviewers:
-      - "neethuvv"
+      - "reebytitus"
     commit-message:
       prefix: "pip"
