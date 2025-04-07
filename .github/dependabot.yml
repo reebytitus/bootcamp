@@ -7,8 +7,8 @@ updates:
     labels:
       - "triage-required"
     assignees:
-      - "shubhasismathur"
+      - "reebytitus"
     reviewers:
-      - "shubhasismathur"
+      - "neethuvv"
     commit-message:
       prefix: "pip"
